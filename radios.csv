@@ -1,0 +1,4 @@
+name,path,url_prefix
+Rock Radio,/path/to/rock/music,rock
+Jazz Station,/path/to/jazz/music,jazz
+Classical FM,/path/to/classical/music,classical 
